@@ -1,7 +1,7 @@
 Erlang mtproto proxy
 ====================
 
-This part of code was extracted from [@socksy_bot](https://t.me/socksy_bot).
+This part of code was extracted from [@MTProtoG](https://t.me/MTProtoG).
 
 Features
 --------
@@ -31,7 +31,7 @@ or use [kerl](https://github.com/kerl/kerl).
 Get the code:
 
 ```
-git clone https://github.com/seriyps/mtproto_proxy.git
+git clone https://github.com/shadowicc/mtproto_proxy.git
 cd mtproto_proxy/
 ```
 
